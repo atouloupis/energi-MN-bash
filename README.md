@@ -5,6 +5,7 @@ Modified script to install NRG Masternode with manual Wallet info input
 
 
 Step 1 - Create the wallet file and copy/paste your wallet informations in the UTC-123 file
+
   mkdir -p /home/nrgstaker/.energicore3/keystore/
   
   nano /home/nrgstaker/.energicore3/keystore/UTC-123
